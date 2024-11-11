@@ -1,3 +1,3 @@
-# Awful Bash Scripts
+This is what m changig# Awful Bash Scripts
 Awful Bash Scripts I Have Made...
   
